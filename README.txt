@@ -1,1 +1,1 @@
-pierwszy projekt w django
+Project in Django framework.
